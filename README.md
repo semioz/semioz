@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semihberkayozturk&label=Profile%20views&color=0e75b6&style=flat" alt="semihberkayozturk" /> </p>
 
-- 🔭 I’m currently working on **API's and Frontend Development**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Express and Node.js**
 
