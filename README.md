@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Express and Node.js**
+- 🌱 I’m currently learning **MongoDB and Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/semihberkayozturk](https://github.com/semihberkayozturk)
 
