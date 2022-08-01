@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Back-end Development and Front-end Development**
 
-- 🌱 I’m currently learning **React**
+- 👽 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/semihberkayozturk](https://github.com/semihberkayozturk)
 
