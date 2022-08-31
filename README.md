@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semihberkayozturk" alt="semihberkayozturk" /></a> </p>
 
-- 🔭 I’m currently working on **API's and Frontend Development**
+- 🔭 I’m currently working on **Full-stack Development**
 
-- 🌱 I’m currently learning **Express and Node.js**
+- 🌱 I’m currently learning **React and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/semihberkayozturk](https://github.com/semihberkayozturk)
 
