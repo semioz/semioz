@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Development**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript and Redis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/semihberkayozturk](https://github.com/semihberkayozturk)
 
