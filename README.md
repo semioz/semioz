@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semihberkayozturk" alt="semihberkayozturk" /></a> </p>
 
-- 🔭 I’m currently working on **Full-Stack Development**
+- 🔭 I’m currently working on **Back-End Development**
 
 - 🌱 I’m currently learning **TypeScript and Redis**
 
