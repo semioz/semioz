@@ -5,10 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semihberkayozturk" alt="semihberkayozturk" /></a> </p>
 
-- 🔭 I’m currently working on **Back-End Development**
-
-- 🔭 I’m currently learning **Redis and TypeScript**
-
 - How to reach me <p align="left">
 <a href="https://www.linkedin.com/in/semihberkayozturk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/semihberkayozturk/" height="30" width="40" /></a>
 </p>
