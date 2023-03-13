@@ -1,5 +1,5 @@
 <h1 align="center">Semih</h1>
-<h3 align="center">Big fan of software and beautiful human brains</h3>
+<h3 align="center">Backend enthusiast with a passion for creating robust and efficient systems</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=semihberkayozturk&label=Profile%20views&color=0e75b6&style=flat" alt="semihberkayozturk" /> </p>
 
