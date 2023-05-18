@@ -3,7 +3,7 @@
 
 <h3 align="left">My tech stack:</h3>
 
-[![](https://skillicons.dev/icons?i=redis,heroku,javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,postman&perline=)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,heroku,graphql,postman&perline=)](https://skillicons.dev)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbsemih&show_icons=true&theme=dark&locale=en&layout=compact" alt="semihberkayozturk" /></p>
