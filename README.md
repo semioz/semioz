@@ -2,6 +2,7 @@
 <h3 align="center">A backend enthusiast</h3>
 
 <h3 align="left">My tech stack:</h3>
+
 [![](https://skillicons.dev/icons?i=redis,heroku,javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,postman&perline=)](https://skillicons.dev)
 
 
