@@ -1,4 +1,4 @@
-<h1 align="center">I'm Semih</h1>
+<h1 align="center">Hi, I'm Semih!</h1>
 
 <h3 align="left">Tech stack:</h3>
 
