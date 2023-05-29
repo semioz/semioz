@@ -2,7 +2,7 @@
 
 * I'm interested in backend engineering and currently using technologies like PostgreSQL, Node.js, TypeScript, Go, MongoDB, Redis, Docker, gRPC, Protocol Buffers and Postman.
 
-* Nowadays I'm eager to learn more about microservices architecture and the Golang to design more efficient and resilient backend systems. Additionally, I enjoy solving algorithm questions, which helps me improve my critical thinking and problem-solving skills.
+* Nowadays I'm eager to learn more about microservices architecture and the Golang to design more efficient and resilient backend systems. Additionally, I enjoy solving algorithm questions.
 
 * I'm still a Student Expert in the Postman Student Community, where I continue to learn and help others with their API-related questions and challenges.
 
