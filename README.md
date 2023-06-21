@@ -4,7 +4,6 @@
 
 * I'm still a Student Expert in the Postman Student Community, where I continue to learn and help others with their API-related questions and challenges
 
-<h3 align="left">Technologies I Use:</h3>
 
 [![](https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,heroku,graphql,postman&perline=7)](https://skillicons.dev)
 
