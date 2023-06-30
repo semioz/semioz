@@ -4,9 +4,11 @@
 
 - I'm still a Student Expert in the Postman Student Community, where I continue to learn and help others with their API-related questions and challenges
 
-[![](https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,heroku,graphql,postman&perline=7)](https://skillicons.dev)` 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbsemih&show_icons=true&theme=dark&locale=en&layout=compact" alt="semihberkayozturk" /></p>
+<div align="center">
+  <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,heroku,graphql,postman&perline=7">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,heroku,graphql,postman&perline=7" alt="Skill Icons">
+  </a>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbsemih&show_icons=true&theme=dark&locale=en" alt="bbsemih" /></p>
 
