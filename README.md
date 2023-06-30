@@ -10,7 +10,10 @@
   </a>
 </div>
 
+
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbsemih&show_icons=true&theme=dark&locale=en" alt="bbsemih" /></p>
+</div>
 
 
 [![@semih's Holopin board](https://holopin.me/semih)](https://holopin.io/@semih)
