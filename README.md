@@ -2,8 +2,8 @@
 
 - I'm interested in backend engineering and nowadays eager to learn more about microservices architecture and the Golang to design more efficient and resilient backend systems
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,heroku,graphql,postman&perline=7">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,heroku,graphql,postman&perline=7" alt="Skill Icons">
+  <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=7">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=7" alt="Skill Icons">
   </a>
 </div>
 
