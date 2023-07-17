@@ -1,6 +1,6 @@
-<h1 align="center">hey! i'm semih!</h1>
+<h1 align="center">hey! i'm semih 👋</h1>
 
-<h4 align="center">i'm a developer who is focused on backend engineering</h4>
+<h3 align="center">i'm a developer who is focused on backend engineering</h3>
 <br>
 
 <div align="center">
