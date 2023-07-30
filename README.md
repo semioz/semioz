@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=7">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=7" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,expressjs,nest,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=8" alt="Skill Icons">
   </a>
 </div>
 
