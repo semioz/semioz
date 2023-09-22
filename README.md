@@ -1,6 +1,6 @@
-<h1 color='white'  align="center">hi, i'm semih!</h1>
+<h1 style="color=white" align="center">hi, i'm semih!</h1>
 
-<h3 font-weight='bold' align='center'>backend dev intern  <a href="https://qlub.io/en/">@qlub</a></h3>
+<h3 style="color=white" font-weight='bold' align='center'>backend dev intern  <a href="https://qlub.io/en/">@qlub</a></h3>
 <div align="center">
   <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=7">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,expressjs,nest,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=8" alt="Skill Icons">
