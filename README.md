@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm semih!</h1>
+<h1 color='white'  align="center">hi, i'm semih!</h1>
 
 <h3 font-weight='bold' align='center'>backend dev intern  <a href="https://qlub.io/en/">@qlub</a></h3>
 <div align="center">
