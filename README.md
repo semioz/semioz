@@ -2,8 +2,8 @@
 
 <h3 font-weight='bold' align='center'>backend developer intern  <a href="https://qlub.io/en/">@qlub</a></h3>
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=7">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,expressjs,nest,docker,nodejs,mongodb,postgres,aws,react,redis,rabbitmq,graphql,postman&perline=8" alt="Skill Icons">
+  <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,postgres,aws,redis,rabbitmq,graphql,postman&perline=7">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,expressjs,nest,docker,nodejs,postgres,aws,redis,rabbitmq,graphql,postman&perline=7" alt="Skill Icons">
   </a>
 </div>
 
