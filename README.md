@@ -2,7 +2,3 @@
 
 ###### backend, cloud, infrastructure, kubernetes
 
-
-  <a href="https://skillicons.dev/icons?i=javascript,typescript,golang,python,docker,nodejs,postgres,aws,redis,rabbitmq,graphql,postman&perline=7">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,expressjs,nest,docker,nodejs,postgres,aws,redis,rabbitmq,graphql,postman&perline=7&" alt="Skill Icons">
-  </a>
